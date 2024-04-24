@@ -28,6 +28,6 @@ To send requests to the API, you can use tools like cURL or Postman.
 
 ## View API Documentation
 
-You also can view the API Documentation by visit `http://localhost:3000/api-docs`.
+You can also view the API Documentation by visit `http://localhost:3000/api-docs`.
 
 ![alt text](screencapture-localhost-3000-api-docs-2024-04-24-22_16_59.png)
